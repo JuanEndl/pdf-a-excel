@@ -1,0 +1,6 @@
+instalar las librerias:
+
+camelot
+pandas
+
+pip install camelot-py[cv] pandas openpyxl
