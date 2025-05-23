@@ -4,3 +4,17 @@ camelot
 pandas
 
 pip install camelot-py[cv] pandas openpyxl
+
+
+===============================================
+
+https://pypi.org/project/auto-py-to-exe/
+https://www.youtube.com/watch?v=dwXW2x7JPx8
+
+crear instalador
+
+1) instalar:
+     pip install auto-py-to-exe
+
+2) ejecutar:
+    auto-py-to-exe
